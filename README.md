@@ -4,7 +4,7 @@
 
 Generate dynamic, personalized UIs from prompts without sacrificing reliability. Predefined components and actions for safe, predictable output.
 
-```bash
+```zig
 # for React
 npm install @json-render/core @json-render/react
 # for React with pre-built shadcn/ui components
